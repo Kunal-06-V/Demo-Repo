@@ -2,4 +2,6 @@
 
 Some Description
 About Git.
-python/c++/JavaScript/HTML/CSS.
+Python/C++/JavaScript/HTML/CSS.
+
+Hello EveryOne!
